@@ -1,0 +1,7 @@
+Note: This program is open source and free. If you paid for this, DEMAND A REFUND
+IMMEDIATELY!!
+
+Btw, only the Python 3 version has the !stop command to quit the program. In the
+Windows Batch Script version, just press Ctrl+C.
+
+Use this for whatever you want. I don't care.
