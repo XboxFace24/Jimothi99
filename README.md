@@ -11,5 +11,6 @@ I am not responsible if you smash your keyboard using this! Have fun!
 
 Use this for whatever you want. I don't care.
 
-Here's an example screenshot:
+Here's an example screenshot (you might need to zoom in to read the text in the command prompts):
+
 ![Example Jimothi99](https://user-images.githubusercontent.com/95384204/220235515-195467d8-8440-4242-a54c-e2c24fbba39c.png)
