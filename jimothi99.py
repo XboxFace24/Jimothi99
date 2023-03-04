@@ -3,6 +3,6 @@ repeat = 1
 while repeat == 1:
     word = input("Send a message: ")
     print("jimothi99: " + word)
-    if word == "!stop":
+    if word == "!stop" or word == "!STOP":
         print("You have stopped talking to jimothi99.")
         break
