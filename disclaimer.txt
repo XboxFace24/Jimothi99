@@ -2,10 +2,14 @@ Note: This program is open source and free. If you paid for this, DEMAND A REFUN
 IMMEDIATELY!!
 
 Btw, only the Python 3 version has the !stop command to quit the program. In the
-Windows Batch Script version, just press Ctrl+C.
+Windows Batch Script and bash versions, just press Control+C.
 
 Use this for whatever you want. I don't care.
 
+To run the bash script version, just open the Bash Version directory inside the Jimothi99 directory
+on the terminal, and then type "bash jimothi99.bash" without quotes.
+
 Changelog:
+1.0.2: Made a bash script version for Linux and Mac.
 1.0.1: Made the !stop command in the Python version work regardless of whether it's uppercase or lowercase.
 1.0.0: Initial release
