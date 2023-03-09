@@ -3,9 +3,9 @@ A "totally normal" chatbot.
 
 Originally "Stop Copying Me!" before release, Jimothi99 is a chatbot that copies everything you type.
 
-Available as a Python 3 script for any Python-supported OS, and a Windows Batch Script for Windows and DOS.
+Available as a Python 3 script for any Python-supported OS, bash script for Linux and Mac, and a Windows Batch Script for Windows and DOS (maybe).
 
-Btw, only the Python 3 version has the !stop command to quit the program. In the Windows Batch Script version, just press Ctrl+C.
+Btw, only the Python 3 version has the !stop command to quit the program. In the Windows Batch Script or bash versions, just press Control+C.
 
 I am not responsible if you smash your keyboard using this! Have fun!
 
