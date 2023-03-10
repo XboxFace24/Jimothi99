@@ -10,6 +10,7 @@ To run the bash script version, just open the Bash Version directory inside the 
 on the terminal, and then type "bash jimothi99.bash" without quotes.
 
 Changelog:
+1.0.2r1: Minimally fixed some code in Bash Version.
 1.0.2: Made a bash script version for Linux and Mac.
 1.0.1: Made the !stop command in the Python version work regardless of whether it's uppercase or lowercase.
 1.0.0: Initial release
